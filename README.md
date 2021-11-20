@@ -6,4 +6,6 @@ O funcionamento do robô acontece de acordo com o fluxo a seguir:
 
 ![alt text](https://github.com/samara-c/Robo_arduino/blob/main/fluxo.png)
 
+Ao ser acionado, o robô responde aos comandos do computador (através do protocolo MQTT) ou dos sensores analógicos. Apesar de ser capaz de pegar pequenos objetos, a arquitetura do robô desenvolvida em sala ainda não permite que ele segure por muito tempo, sendo necessárias melhorias na estrutura física da garra. A seguir, temos uma foto da entrega final do robô:
 
+![alt text](https://github.com/samara-c/Robo_arduino/blob/main/Imagem_2.jpeg)
